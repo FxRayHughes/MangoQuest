@@ -1,0 +1,12 @@
+name: MangoQuest
+main: me.Cutiemango.MangoQuest.Main
+version: 2.0
+api-version: 1.19
+authors: [ Cutiemango,Ray_Hughes ]
+depend: [ Vault, Citizens ]
+softdepend: [ MythicMobs, Shopkeepers]
+commands:
+  mq:
+    description: Main command for MangoQuest
+  mqa:
+    description: Admin command for MangoQuest
